@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {splitInToWords} from './01-hello-test/01';
-import {sum, res} from './03/03';
+// import {sum, res} from './03/03';
 
 
 

@@ -113,6 +113,7 @@ test('House should be destroyed', () => {
 
     expect(city.houses.length).toBe(1);
     expect(city.houses[0].id).toBe(1);
+    expect(city.houses[0].id).toBe(1);
 
 })
 
