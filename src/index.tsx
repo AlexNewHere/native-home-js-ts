@@ -8,7 +8,7 @@ import {sum, res} from './03/03';
 
 
 
-console.log(res)
+
 
 // ReactDOM.render(
 //   <React.StrictMode>
