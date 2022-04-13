@@ -23,3 +23,7 @@ test ((name), () = > {expect().tobe()})
 
 Урок 4. Функция filter
 
+Урок 5. Функция map
+
+Урок 6. Функция callbacks
+

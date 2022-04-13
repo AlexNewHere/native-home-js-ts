@@ -1,5 +1,5 @@
 import {CityType} from '../02/02_02';
-import {demolishHousesOnTheStreet, getBuildingsWithStaffCountGreaterThen} from './04_02';
+// import {demolishHousesOnTheStreet, getBuildingsWithStaffCountGreaterThen} from './04_02';
 import {createMessages, getStreetsTitlesGovernmentsBuildings, getStreetsTitlesOfHouses} from './05_02map';
 import {createMessage} from '../03/03';
 
