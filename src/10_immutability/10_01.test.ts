@@ -69,7 +69,7 @@ test('updade books', () => {
         books: ['css', 'html', 'js', 'react'],
     };
 
-    const userCopy = updateUserBooks(user, 'js', 'ts');
+    const userCopy = updateUserBooks(user, 'js');
 
     expect(user).not.toBe(userCopy);
     expect(user.books).not.toBe(userCopy.books);
